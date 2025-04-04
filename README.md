@@ -1,0 +1,1 @@
+# Defect-Detection-in-3D-Mesh-Files--Sem_-_project
